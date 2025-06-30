@@ -1,0 +1,5 @@
+{
+  "name": "DSMS - Digital System Management Service",
+  "description": "An interactive web application to visually design, manage, and analyze IT infrastructure using a drag-and-drop interface. It leverages Gemini AI to provide smart suggestions, automated documentation, and troubleshooting assistance, enhancing the Digital Experience (DEX) for IT professionals.",
+  "requestFramePermissions": []
+}
